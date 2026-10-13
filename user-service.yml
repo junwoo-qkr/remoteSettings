@@ -7,4 +7,5 @@ spring:
 
 token:
     expiration_time: 864000000
-    secret: default secret - too short so i added extra words. blah blah blah added more words. thank you guys
+    # secret: default secret - too short so i added extra words. blah blah blah added more words. thank you guys
+    secret: '{cipher}AQAwMUOQjLJxw33Qazcl/EapAFm4fWAZ8HBokrMkZ0H8aXc14rboYu9pu5632fGfoJhElgu1GKunChnII1RnhM7NIac2xdVVODaZQ48IFgSUs2ZQ643eidZEPnI+jdJPO8tPwY3388B5pR8O+GJkwl9ePZe9m1fyko/g9HlGVDeLbLi+Lzb9C8W51Wk9hmQxbCWVgIQQ2OP2+0ev++GreZrhYvMbP6npljmQSdKdtavn5fZjZNejmDz/RGjq/nu8yKtwu1e22xTew3+p7/mEh4Jw6LOIqLpmUUk654Uo1lZL+Yej9fVPraxH1c4TMr1P2Kh4W2KPT/dfx5OlMd71tuwWpTNsNNHUHns/p8s2uu6kks4PdNPGsizTD8+H/RXpY0LRHt7JZgTAi8lvq0n36PUFGd+E3eRpMKcNj6gZKTQBZAuC0n+eWA1ge57uyZdox15MAWTWtLHEnXKJ17oVqZppEfi552P5IQAEbUDrkBbQcv4mI7QjXd0ubK99xCAyYrc='
