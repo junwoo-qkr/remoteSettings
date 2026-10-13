@@ -1,6 +1,2 @@
-token:
-    expiration_time: 864000000
-    secret: default secret - too short so i added extra words. blah blah blah added more words. thank you guys
-
 gateway:
     ip: 192.168.0.28
